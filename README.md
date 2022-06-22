@@ -1,0 +1,4 @@
+- 👋 Olá, Sou @cleitopoucaszideia09
+- 👀 Estou Interessado Em Programação
+- 🌱 Estou Aprendendo Pensamento Computacional
+- 📫 cleiton.neris@escola.pr.gov.br
